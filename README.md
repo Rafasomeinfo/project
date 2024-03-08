@@ -2,8 +2,11 @@
 Projeto final cs50 - gerenciador de peças 
 Desenvolvimento de Software para Estoque de Peças multi-plataforma, Tecnologia usada Python.
  Autor: Rafael da Silva Ribas
+link do video abaixo:
+ https://www.youtube.com/watch?v=WegZh8YOXKg
+ 
 Professor e Desenvolvedor de sistemas eletrônicos,Web e Banco de Dados
-Data: 10/09/23
+Data: 08/03/24
 
 
 Licença
